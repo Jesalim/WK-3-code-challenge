@@ -9,6 +9,9 @@ Flatiron Movie Theater is open for business! You will be building out an applica
 - Open `index.html` in your browser.
 - Run `json-server --watch db.json` to start the backend.
 
+## to access this site directly to the browser,one can use this url;
+https://jesalim.github.io/WK-3-code-challenge/
+
 ## Endpoints
 
 Your base URL for your API will be: http://localhost:3000
@@ -41,3 +44,5 @@ As a user, I can:
 - Indicate in the menu which movies are sold out.
 
 
+Author:Jessica Gichuru
+github:https://github.com/Jesalim
